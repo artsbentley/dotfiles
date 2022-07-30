@@ -7,6 +7,7 @@ if status is-interactive
 end
 
 #ALIASES
+alias cls='clear'
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
 alias np='nano -w PKGBUILD'
@@ -32,6 +33,6 @@ neofetch
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-eval /home/martin/anaconda3/bin/conda "shell.fish" "hook" $argv | source
+# eval /home/martin/anaconda3/bin/conda "shell.fish" "hook" $argv | source
 # <<< conda initialize <<<
 
