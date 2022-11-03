@@ -1,0 +1,5 @@
+2022/11/03-21:23:50.476 1a88a Creating DB /home/arar/.config/discord/Local Storage/leveldb since it was missing.
+2022/11/03-21:23:50.484 1a88a Reusing MANIFEST /home/arar/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/03-21:25:55.209 1a888 Level-0 table #5: started
+2022/11/03-21:25:55.241 1a888 Level-0 table #5: 1183439 bytes OK
+2022/11/03-21:25:55.245 1a888 Delete type=0 #3
